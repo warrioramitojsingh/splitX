@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+frontend/.env.example
+!frontend/.env.example
+
+.idea/
+target/
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+!.env.example
